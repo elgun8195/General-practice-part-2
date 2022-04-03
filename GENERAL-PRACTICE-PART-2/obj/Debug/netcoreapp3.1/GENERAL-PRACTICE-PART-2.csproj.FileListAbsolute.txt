@@ -1,0 +1,14 @@
+C:\Users\Elgun\Desktop\GENERAL-PRACTICE-PART-2\GENERAL-PRACTICE-PART-2\bin\Debug\netcoreapp3.1\GENERAL-PRACTICE-PART-2.exe
+C:\Users\Elgun\Desktop\GENERAL-PRACTICE-PART-2\GENERAL-PRACTICE-PART-2\bin\Debug\netcoreapp3.1\GENERAL-PRACTICE-PART-2.deps.json
+C:\Users\Elgun\Desktop\GENERAL-PRACTICE-PART-2\GENERAL-PRACTICE-PART-2\bin\Debug\netcoreapp3.1\GENERAL-PRACTICE-PART-2.runtimeconfig.json
+C:\Users\Elgun\Desktop\GENERAL-PRACTICE-PART-2\GENERAL-PRACTICE-PART-2\bin\Debug\netcoreapp3.1\GENERAL-PRACTICE-PART-2.runtimeconfig.dev.json
+C:\Users\Elgun\Desktop\GENERAL-PRACTICE-PART-2\GENERAL-PRACTICE-PART-2\bin\Debug\netcoreapp3.1\GENERAL-PRACTICE-PART-2.dll
+C:\Users\Elgun\Desktop\GENERAL-PRACTICE-PART-2\GENERAL-PRACTICE-PART-2\bin\Debug\netcoreapp3.1\GENERAL-PRACTICE-PART-2.pdb
+C:\Users\Elgun\Desktop\GENERAL-PRACTICE-PART-2\GENERAL-PRACTICE-PART-2\obj\Debug\netcoreapp3.1\GENERAL-PRACTICE-PART-2.csproj.AssemblyReference.cache
+C:\Users\Elgun\Desktop\GENERAL-PRACTICE-PART-2\GENERAL-PRACTICE-PART-2\obj\Debug\netcoreapp3.1\GENERAL-PRACTICE-PART-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elgun\Desktop\GENERAL-PRACTICE-PART-2\GENERAL-PRACTICE-PART-2\obj\Debug\netcoreapp3.1\GENERAL-PRACTICE-PART-2.AssemblyInfoInputs.cache
+C:\Users\Elgun\Desktop\GENERAL-PRACTICE-PART-2\GENERAL-PRACTICE-PART-2\obj\Debug\netcoreapp3.1\GENERAL-PRACTICE-PART-2.AssemblyInfo.cs
+C:\Users\Elgun\Desktop\GENERAL-PRACTICE-PART-2\GENERAL-PRACTICE-PART-2\obj\Debug\netcoreapp3.1\GENERAL-PRACTICE-PART-2.csproj.CoreCompileInputs.cache
+C:\Users\Elgun\Desktop\GENERAL-PRACTICE-PART-2\GENERAL-PRACTICE-PART-2\obj\Debug\netcoreapp3.1\GENERAL-PRACTICE-PART-2.dll
+C:\Users\Elgun\Desktop\GENERAL-PRACTICE-PART-2\GENERAL-PRACTICE-PART-2\obj\Debug\netcoreapp3.1\GENERAL-PRACTICE-PART-2.pdb
+C:\Users\Elgun\Desktop\GENERAL-PRACTICE-PART-2\GENERAL-PRACTICE-PART-2\obj\Debug\netcoreapp3.1\GENERAL-PRACTICE-PART-2.genruntimeconfig.cache
